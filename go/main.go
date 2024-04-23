@@ -4,10 +4,10 @@ import (
     "fmt"
     "net/http"
 
-    "goi/src/courier"
-    "goi/src/customer"
-    "goi/src/kitchen"
-    "goi/src/manager"
+    "courier"
+    "customer"
+    "kitchen"
+    "manager"
 )
 
 
